@@ -1,0 +1,256 @@
+{
+	"info": {
+		"_postman_id": "e1db5b2c-6640-48dd-b148-c76e2e73f568",
+		"name": "HelsanaHack",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Users",
+			"item": [
+				{
+					"name": "Get all user id's",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{baseUrl}}/api/users",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"api",
+								"users"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Get all user id's with age",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{baseUrl}}/api/users?fromAge=30&toAge=30",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"api",
+								"users"
+							],
+							"query": [
+								{
+									"key": "fromAge",
+									"value": "30"
+								},
+								{
+									"key": "toAge",
+									"value": "30"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Get all user id's with age and gender",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{baseUrl}}/api/users?fromAge=30&toAge=30&gender=female",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"api",
+								"users"
+							],
+							"query": [
+								{
+									"key": "fromAge",
+									"value": "30"
+								},
+								{
+									"key": "toAge",
+									"value": "30"
+								},
+								{
+									"key": "gender",
+									"value": "female"
+								}
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Activities",
+			"item": [
+				{
+					"name": "Get activities by userId",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{baseUrl}}/api/activities?userId=01E8091B7D4F004EFB77FA332F662C20",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"api",
+								"activities"
+							],
+							"query": [
+								{
+									"key": "userId",
+									"value": "01E8091B7D4F004EFB77FA332F662C20"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Get activities by from/to activitiyTime",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{baseUrl}}/api/activities?fromActivityTime=2020-01-01&toActivityTime=2020-01-02",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"api",
+								"activities"
+							],
+							"query": [
+								{
+									"key": "fromActivityTime",
+									"value": "2020-01-01"
+								},
+								{
+									"key": "toActivityTime",
+									"value": "2020-01-02"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Get activities by imageClass",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{baseUrl}}/api/activities?imageClass=BikeImages",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"api",
+								"activities"
+							],
+							"query": [
+								{
+									"key": "imageClass",
+									"value": "BikeImages"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Get activities by basicActivity",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{baseUrl}}/api/activities?basicActivity=Trails App Run",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"api",
+								"activities"
+							],
+							"query": [
+								{
+									"key": "basicActivity",
+									"value": "Trails App Run"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Get activities by recognizedActivity",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{baseUrl}}/api/activities?recognizedActivity=Walk or Jog",
+							"host": [
+								"{{baseUrl}}"
+							],
+							"path": [
+								"api",
+								"activities"
+							],
+							"query": [
+								{
+									"key": "recognizedActivity",
+									"value": "Walk or Jog"
+								}
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		}
+	],
+	"auth": {
+		"type": "apikey",
+		"apikey": [
+			{
+				"key": "value",
+				"value": "WJpDAQqpIbZNa7ANLrlZIzShYYUszrfRNMbdjQv6g66RdW1JLaVAaQ==",
+				"type": "string"
+			},
+			{
+				"key": "key",
+				"value": "x-functions-key",
+				"type": "string"
+			}
+		]
+	},
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		}
+	]
+}
