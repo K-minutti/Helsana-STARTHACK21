@@ -22,6 +22,7 @@ Also links to potentially relevant databases, tools, software applications can b
 You want the participants to spend as much time as possible focusing on the more creative and complex aspects of your challenge.
 
 * Information about the Helsana dataset and how to access it [here](HELSANA_DATASET_AND_ACCESS.md)
+* A pre-defined PostMan collection for accessing the Helana dataset using REST is [here](HelsanaHack.postman_collection.json)
 
 ### Judging Criteria
 Insert a description of your grading scheme here! What are you looking for? What outcome do you expect?
