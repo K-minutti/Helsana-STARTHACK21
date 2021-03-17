@@ -14,9 +14,9 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "{{baseUrl}}/api/users",
+							"raw": "https://hackapi.azurewebsites.net/api/users",
 							"host": [
-								"{{baseUrl}}"
+								"https://hackapi.azurewebsites.net"
 							],
 							"path": [
 								"api",
@@ -32,9 +32,9 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "{{baseUrl}}/api/users?fromAge=30&toAge=30",
+							"raw": "https://hackapi.azurewebsites.net/api/users?fromAge=30&toAge=30",
 							"host": [
-								"{{baseUrl}}"
+								"https://hackapi.azurewebsites.net"
 							],
 							"path": [
 								"api",
@@ -60,9 +60,9 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "{{baseUrl}}/api/users?fromAge=30&toAge=30&gender=female",
+							"raw": "https://hackapi.azurewebsites.net/api/users?fromAge=30&toAge=30&gender=female",
 							"host": [
-								"{{baseUrl}}"
+								"https://hackapi.azurewebsites.net"
 							],
 							"path": [
 								"api",
@@ -97,9 +97,9 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "{{baseUrl}}/api/activities?userId=01E8091B7D4F004EFB77FA332F662C20",
+							"raw": "https://hackapi.azurewebsites.net/api/activities?userId=01E8091B7D4F004EFB77FA332F662C20",
 							"host": [
-								"{{baseUrl}}"
+								"https://hackapi.azurewebsites.net"
 							],
 							"path": [
 								"api",
@@ -121,9 +121,9 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "{{baseUrl}}/api/activities?fromActivityTime=2020-01-01&toActivityTime=2020-01-02",
+							"raw": "https://hackapi.azurewebsites.net/api/activities?fromActivityTime=2020-01-01&toActivityTime=2020-01-02",
 							"host": [
-								"{{baseUrl}}"
+								"https://hackapi.azurewebsites.net"
 							],
 							"path": [
 								"api",
@@ -149,9 +149,9 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "{{baseUrl}}/api/activities?imageClass=BikeImages",
+							"raw": "https://hackapi.azurewebsites.net/api/activities?imageClass=BikeImages",
 							"host": [
-								"{{baseUrl}}"
+								"https://hackapi.azurewebsites.net"
 							],
 							"path": [
 								"api",
@@ -173,9 +173,9 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "{{baseUrl}}/api/activities?basicActivity=Trails App Run",
+							"raw": "https://hackapi.azurewebsites.net/api/activities?basicActivity=Trails App Run",
 							"host": [
-								"{{baseUrl}}"
+								"https://hackapi.azurewebsites.net"
 							],
 							"path": [
 								"api",
@@ -197,9 +197,9 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "{{baseUrl}}/api/activities?recognizedActivity=Walk or Jog",
+							"raw": "https://hackapi.azurewebsites.net/api/activities?recognizedActivity=Walk or Jog",
 							"host": [
-								"{{baseUrl}}"
+								"https://hackapi.azurewebsites.net"
 							],
 							"path": [
 								"api",
