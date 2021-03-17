@@ -21,6 +21,8 @@ List all relevant resources and tools here.
 Also links to potentially relevant databases, tools, software applications can be helpful to give coders more stuff to work with and be creative.
 You want the participants to spend as much time as possible focusing on the more creative and complex aspects of your challenge.
 
+* Information about the Helsana dataset and how to access it [here](HELSANA_DATASET_AND_ACCESS.md)
+
 ### Judging Criteria
 Insert a description of your grading scheme here! What are you looking for? What outcome do you expect?
 
