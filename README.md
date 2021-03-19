@@ -24,10 +24,10 @@ List all relevant resources and tools here.
 Insert a description of your grading scheme here! What are you looking for? What outcome do you expect?
 
 ### Point of Contact
-Helsana_arbennuhija
-Helsana_qb12
-Helsana_Paulina
-Helsana_Marc
+* Helsana_arbennuhija
+* Helsana_qb12
+* Helsana_Paulina
+* Helsana_Marc
 
 ### Time Slots at the Booth
 Just write us at Discord
