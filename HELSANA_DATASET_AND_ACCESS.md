@@ -2,14 +2,14 @@
 
 We prepared a decent data-set with more then 190'000 activities from 1900 users. The data is stored in one single Azure SQL table.
 
-We privide you two ways of accessing this data to address various use-cases.
+We provide you two ways of accessing this data to address various use-cases.
 
 1. Direct SQL data-access (read-only) for data-analytics or backend access.
 1. REST API to retrieve the data from within apps or backend.
 
 ## The data structure
 
-To keep things simple we provide one single datbase table. Note that this is a small part of data we have for Helsana+ and its build specially for this Hackaton. It's not our real world data-structure but it should give you a usable dataset to work with without introduce a huge complexity. Its up to you what of this data you like to use in your Hack.
+To keep things simple we provide one single datbase table. Note that this is a small part of data we have for Helsana+ and its build specially for this Hackaton. It's not our real world data-structure but it should give you a usable dataset to work without introducing a huge complexity. Its up to you what of this data you like to use in your Hack.
 
 Fields and their meaning:
 
