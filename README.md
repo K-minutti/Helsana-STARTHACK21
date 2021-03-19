@@ -33,4 +33,4 @@ See the Deep Dive Slides
 Just write us at Discord
 
 ### Prize
-Let the participants know what will be expecting the winning Team!
+PlayStation5 for the winning team!
