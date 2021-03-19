@@ -5,11 +5,11 @@ People have collected tons of data about themself. We want to create a service t
 
 Secondly we want to implement a recomendation engine to help the user increase their health.
 
-### Case Pitch
-Insert your Pitch Video or Slides here
+### Case Pitch 
+[Case Pitch](StartHack_pitch.pdf)
 
 ### Deep Dive Slides
-Insert materials from your Deep Dives here
+[Deep Dive](StartHack_workshop.pdf)
 
 ### Further Information
 Be creative and have fun
