@@ -111,7 +111,8 @@ func main() {
 }
 ```
 
-## REST API access
+
+## REST API access
 
 We provide you with a simple REST API to query the above data. It contains two GET endpoints. One to query user-id's using various criterias and one to query the activities.
 
