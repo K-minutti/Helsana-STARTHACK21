@@ -1,10 +1,9 @@
 # START Hack 2021 - Helsana Case
 
 ### Case Introduction
-Please give a short introduction to your case.
-What is the problem you are solving?
-What do you expect from the winning team?
-Are you planning on further developing this project after the START Hack?
+People have collected tons of data about themself. We want to create a service to show them how healthy they actually are. You are totally free how you can do that. We have some ideas like a Health Score, Avatar, Dashboard but we are very open for new ideas.
+
+Secondly we want to implement a recomendation engine to help the user increase their health.
 
 ### Case Pitch
 Insert your Pitch Video or Slides here
@@ -13,13 +12,10 @@ Insert your Pitch Video or Slides here
 Insert materials from your Deep Dives here
 
 ### Further Information
-Insert any further information about the hack case, the topic and related projects.
-Give as much context as possible, in order to give your coders a head start!
+Be creative and have fun
 
 ### Resources
 List all relevant resources and tools here.
-Also links to potentially relevant databases, tools, software applications can be helpful to give coders more stuff to work with and be creative.
-You want the participants to spend as much time as possible focusing on the more creative and complex aspects of your challenge.
 
 * Information about the Helsana dataset and how to access it [here](HELSANA_DATASET_AND_ACCESS.md)
 * A pre-defined PostMan collection for accessing the Helana dataset using REST is [here](HelsanaHack.postman_collection.json)
@@ -28,10 +24,13 @@ You want the participants to spend as much time as possible focusing on the more
 Insert a description of your grading scheme here! What are you looking for? What outcome do you expect?
 
 ### Point of Contact
-List all available mentors here.
+Helsana_arbennuhija
+Helsana_qb12
+Helsana_Paulina
+Helsana_Marc
 
 ### Time Slots at the Booth
-List the expected times of availability at the booth here.
+Just write us at Discord
 
 ### Prize
 Let the participants know what will be expecting the winning Team!
