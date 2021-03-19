@@ -21,7 +21,7 @@ List all relevant resources and tools here.
 * A pre-defined PostMan collection for accessing the Helana dataset using REST is [here](HelsanaHack.postman_collection.json)
 
 ### Judging Criteria
-Insert a description of your grading scheme here! What are you looking for? What outcome do you expect?
+See the Deep Dive Slides
 
 ### Point of Contact
 * Helsana_arbennuhija
